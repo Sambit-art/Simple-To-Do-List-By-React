@@ -1,0 +1,51 @@
+h3 {
+  color: blue;
+}
+
+.heading {
+  color: #f90;
+  text-decoration: underline;
+}
+.subheading {
+  color: green;
+  font-size: 20px;
+  text-decoration: underline;
+}
+.btn {
+  height: auto;
+  width: auto;
+  font-size: 20px;
+  margin: 10px auto;
+  border-radius: 10px;
+  box-shadow: 3px 4px #80808033;
+  border: none;
+  background: #b564ceb3;
+  transition: 2s;
+}
+
+.btn:hover {
+  background: #5c1074;
+  color: white;
+}
+
+.maindiv {
+  height: fit-content;
+  width: fit-content;
+  background: linear-gradient(188deg, red, black);
+  padding: 49px;
+  border: 5px black double;
+  margin: 30px auto;
+}
+
+.inputfield {
+  background-color: transparent;
+  border: none;
+  margin: 5px;
+  border-bottom: 2px #00f3 solid;
+  color: white;
+}
+
+.myform {
+  width: -moz-fit-content;
+  margin: 10px auto;
+}
